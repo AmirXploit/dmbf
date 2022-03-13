@@ -1,8 +1,8 @@
 # ✭ DMBF CRACK
-#### Dibuat Dengan ❤️ Oleh Dapunta
+#### Dibuat Dengan ❤️ Oleh MR_AMIR
 ```
 Author:
-- Dapunta Khurayra X
+- AmirXploit
 ```
 #### ⇨  Fitur Login
 ```
@@ -29,14 +29,14 @@ $ pkg install python
 $ pkg install git
 $ pip install requests
 $ pip install bs4
-$ git clone https://github.com/Dapunta/dmbf
+$ git clone https://github.com/AmirXploit/dmbf2
  
 ```
 #### ⇨  Menjalankan Script
 ```
 $ cd dmbf
 $ git pull
-$ python dmbf.py
+$ python dmbf2.py
 ```
 #### ⇨  Informasi
 ```
